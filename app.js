@@ -1,6 +1,6 @@
 (function(){
 'use strict';
-var TITLE='Aabha Jewels';
+var TITLE='SEJAL JEWELS';
 var CATS=['Earrings','Necklaces','Bracelets','Rings','Anklets','Sets'];
 var TAGS=['','New','Hot Selling','Best Seller','Limited'];
 var S={settings:{name:'',tagline:'',announce:'',freeShip:0,shipFee:0,codFee:0,couponCode:'',couponPct:0},collections:[],products:[]};
